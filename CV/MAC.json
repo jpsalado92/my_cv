@@ -149,23 +149,6 @@
       },
       {
         "organization": {
-          "name": "HOLA CONSULTORES SL"
-        },
-        "roles": [
-          {
-            "name": "Software Developer",
-            "startDate": "2019-08-01",
-            "finishDate": "2020-03-31",
-            "challenges": [
-              {
-                "description": "Software development for Vueling airlines in the \"Crew Pairing\" and \"Crew Rostering\" business areas. Automation of data processing, tasks and reports, and modeling of cost functions for the optimization of resources in the Python and Rave (Jeppesen) programming languages."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Hola Consultores",
           "image": {
             "alt": "80acb210-f3a5-4e29-aed1-79eb9bad99d1.png",
