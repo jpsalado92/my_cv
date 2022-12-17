@@ -1,0 +1,530 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Pablo",
+      "surnames": "Salado",
+      "title": "Tech enthusiast immersed in the continuous process of personal and professional development.",
+      "description": "I'm a Data Engineer raised in the Basque Country with experience in research, software development, and analytics. Through my life journey, I have always looked forward to learning, and that's what I do, every day I keep on working to further develop myself, learn languages, and improve my professional skills; also, keeping the ones that matter close. Quite a challenge!",
+      "avatar": {
+        "alt": "IMG_20201209_131742.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/31437c0f-1071-44e3-ade7-376fcfa897d4_img_20201209_131742.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Bilbao",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/jpsalado92/"
+      },
+      {
+        "type": "other",
+        "URL": "https://jpsalado92.github.io/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/jpsalado92"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jpsalado/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "First prize at APP design contest",
+        "fact": "I won the first prize in the idea’s competition organized by the Bilbao City Council and the European platform “WeLive”, proposing an application for mobile devices aimed at exploiting the resources and services offered by the town."
+      },
+      {
+        "topic": "Scientific Paper related to Breast Cancer detection with CV and DL techniques",
+        "fact": "This project got me the honors degree in my FYD and led to my first publication in a scientific journal, having the chance to present it at the CASEIB17 congress."
+      },
+      {
+        "topic": "Local Datathon winner",
+        "fact": "Winning the local phase of the largest Datathon held nationwide (Spain) with a Machine Learning algorithm proposal aimed at identifying the use of cadastral records."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Orkestra",
+          "image": {
+            "alt": "logo-orkestra.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/cc52e8dd-7790-45c7-a7a1-5d8f002c0ee0_logo-orkestra.jpg"
+          },
+          "URL": "https://www.orkestra.deusto.es/en/"
+        },
+        "roles": [
+          {
+            "name": "Data Engineer",
+            "startDate": "2020-06-01",
+            "challenges": [
+              {
+                "description": "Exploitation of enterprise account databases using Big Data techniques to implement a \"Probability of Default\" model aimed to be used by public institutions; implementation of websites and dashboards for the public institutions of the Basque Country; multiple ETL design from heterogeneous sources to support research; database management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Flask",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Microsoft Power BI",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Postman",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Spark",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hola Consultores",
+          "image": {
+            "alt": "80acb210-f3a5-4e29-aed1-79eb9bad99d1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/94fc94cd-4130-4d12-8530-cca21e3576da_80acb210-f3a5-4e29-a.png"
+          },
+          "URL": "https://www.holacons.com/"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2019-06-01",
+            "finishDate": "2020-05-01",
+            "challenges": [
+              {
+                "description": "Software development for Vueling airlines for the business areas \"Crew Pairing\" (Generation of routes for aircraft based on costs and regulations) and \"Crew Rostering\" (Assignment of tasks and flights to each crew member based on their preferences, costs, and regulations)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Atlassian",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Mercurial",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gestamp",
+          "image": {
+            "alt": "unnamed-1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/393a8ed4-3817-4f83-8d92-e8ac6fdfac7f_unnamed-1.jpg"
+          },
+          "URL": "https://www.gestamp.com/es/home"
+        },
+        "roles": [
+          {
+            "name": "Systems and Quality Engineer",
+            "startDate": "2018-12-01",
+            "finishDate": "2019-05-01",
+            "challenges": [
+              {
+                "description": "Support for the implementation of a quality system to obtain the ISO:9001 certification in the recently built production plant located in Kunshan (China)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Microsoft Excel",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ICEX",
+          "image": {
+            "alt": "lFya9tf4_400x400.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/57e34aec-ca2d-4384-8d38-aa59b622583c_lfya9tf4_400x400.jpg"
+          },
+          "URL": "https://www.icex.es/icex/es/index.html"
+        },
+        "roles": [
+          {
+            "name": "Trade Advisor",
+            "startDate": "2017-12-01",
+            "finishDate": "2018-12-01",
+            "challenges": [
+              {
+                "description": "Worked in Guangzhou to support the Spanish Trade Office in attracting Chinese investment and assisting Spanish companies in their internationalization efforts."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Power Query",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tecnalia",
+          "image": {
+            "alt": "Logo_Tecnalia.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/d6e57b14-5fea-4752-8a4e-a7a801818c68_logo_tecnalia.png"
+          },
+          "URL": "https://www.tecnalia.com/"
+        },
+        "roles": [
+          {
+            "name": "Data Scientist",
+            "startDate": "2016-10-01",
+            "finishDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "Development of a solution based on Computer Vision and Deep Learning techniques to classify mitosis. Internship and development of my master's Thesis."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Keras",
+                "type": "technology"
+              },
+              {
+                "name": "Matlab",
+                "type": "technology"
+              },
+              {
+                "name": "OpenCV",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "TensorFlow",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Public Contracts 4All",
+          "description": "Advanced scrapping of the official Basque Contract site empowering individuals to better know how public wealth is spent.",
+          "URL": "https://www.contratacion.euskadi.eus/inicio/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Jekyll Site (In development)",
+          "description": "Personal blog with leveraging Jekyll and Github Pages",
+          "URL": "https://jpsalado92.github.io/",
+          "image": {
+            "alt": "web-logo-big.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/d79f0c6c-70e5-4fcd-a8c0-670921ae393b_web-logo-big.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Gimp",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Jekyll",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Basque",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Query",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Pivot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jekyll",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airflow",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jpsalado/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Airflow",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Spark",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Data Analysis & BI",
+        "Data Engineer",
+        "Research Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
