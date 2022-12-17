@@ -57,7 +57,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Nepa "
+          "name": "Nepa ",
+          "image": {
+            "alt": "nepa-squarelogo-1550750272107.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/70fabcc8-646c-48cd-a0e6-491539e343e6_nepa-squarelogo-1550.png"
+          },
+          "URL": "https://nepa.com/"
         },
         "roles": [
           {
@@ -65,7 +70,53 @@
             "startDate": "2022-08-01",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "Refactoring code; New pipeline implementation and maintenance; Designing new DB+API solution; Addressing new ways to meet business requirements; Frontend development."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C#",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "R",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Shiny",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
