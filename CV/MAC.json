@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Suecia",
         "region": "Provincia de Estocolmo",
-        "municipality": "Estocolmo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Estocolmo"
       }
     },
     "relevantLinks": [
@@ -300,23 +299,6 @@
       },
       {
         "organization": {
-          "name": "TECNALIA Research & Innovation"
-        },
-        "roles": [
-          {
-            "name": "Algorithm Engineer",
-            "startDate": "2017-02-01",
-            "finishDate": "2017-07-31",
-            "challenges": [
-              {
-                "description": "At Tecnalia's facilities in Zamudio, I teamed up with the Computer Vision Department as an intern to develop my Master's Thesis. In just 3 months, we developed an algorithm capable of automatically counting possible mithosis in an histological image with results comparable to the state of the art. This solution was programmed in Python and was based in both Computer Vision and Deep Learning Algorithms. The results, were published in a Paper (ISBN: 978-84-9082-797-0, pags. 199- 202) and led to its public presentation by myself at the CASEIB (Annual Congress of the Spanish Society of Biomedical Engineering)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Tecnalia",
           "image": {
             "alt": "Logo_Tecnalia.png",
@@ -442,8 +424,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -669,7 +650,6 @@
         "Data Engineer",
         "DevOps & Infrastructure & SRE"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
