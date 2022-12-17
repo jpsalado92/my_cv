@@ -7,17 +7,17 @@
   "aboutMe": {
     "profile": {
       "name": "Juan Pablo",
-      "surnames": "Salado",
-      "title": "Tech enthusiast immersed in the continuous process of personal and professional development.",
+      "surnames": "Salado García",
+      "title": "Tech enthusiast with strong technical skills and a commitment to self-Improvement seeking opportunity to contribute and grow",
       "description": "I'm a Data Engineer raised in the Basque Country with experience in research, software development, and analytics. Through my life journey, I have always looked forward to learning, and that's what I do, every day I keep on working to further develop myself, learn languages, and improve my professional skills; also, keeping the ones that matter close. Quite a challenge!",
       "avatar": {
-        "alt": "IMG_20201209_131742.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/31437c0f-1071-44e3-ade7-376fcfa897d4_img_20201209_131742.jpg"
+        "alt": "DSC_0800_edit.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/e5ec30be-2b5e-4af9-a0c4-0d99c2b2180a_dsc_0800_edit.jpg"
       },
       "location": {
-        "country": "España",
-        "region": "País Vasco",
-        "municipality": "Bilbao",
+        "country": "Suecia",
+        "region": "Provincia de Estocolmo",
+        "municipality": "Estocolmo",
         "notes": "Autocompleted using Google Maps API"
       }
     },
