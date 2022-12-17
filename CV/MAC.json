@@ -594,6 +594,17 @@
           "name": "Faculty of Engineering Bilbao",
           "URL": "https://www.ehu.eus/en/web/bilboko-ingeniaritza-eskola/hasiera"
         }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "University Specialist in Internationalization in the Business World",
+        "startDate": "2017-07-01",
+        "finishDate": "2017-12-01",
+        "institution": {
+          "name": "University of the Basque Country",
+          "URL": "https://basquetrade.spri.eus/en/subsidies/beint-internationalization-program-young/"
+        }
       }
     ]
   },
