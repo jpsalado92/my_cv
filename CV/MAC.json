@@ -132,23 +132,6 @@
       },
       {
         "organization": {
-          "name": "Orkestra-Basque Institute of Competitiveness "
-        },
-        "roles": [
-          {
-            "name": "Data Engineer",
-            "startDate": "2020-06-01",
-            "finishDate": "2022-07-31",
-            "challenges": [
-              {
-                "description": "Supports the investigation of various projects in Orkestra working with small and big data to facilitate the search for insights and their systematization"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Vueling",
           "image": {
             "alt": "Cascading-1.png",
