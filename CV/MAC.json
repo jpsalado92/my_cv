@@ -149,18 +149,18 @@
       },
       {
         "organization": {
-          "name": "Hola Consultores",
+          "name": "Vueling",
           "image": {
-            "alt": "80acb210-f3a5-4e29-aed1-79eb9bad99d1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/94fc94cd-4130-4d12-8530-cca21e3576da_80acb210-f3a5-4e29-a.png"
+            "alt": "Cascading-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/823ab3ee-fadc-4ac2-914f-fdc331b79d53_cascading-1.png"
           },
-          "URL": "https://www.holacons.com/"
+          "URL": "https://www.vueling.com/es"
         },
         "roles": [
           {
             "name": "Software Developer",
-            "startDate": "2019-06-01",
-            "finishDate": "2020-05-01",
+            "startDate": "2019-08-01",
+            "finishDate": "2020-03-01",
             "challenges": [
               {
                 "description": "Software development for Vueling airlines for the business areas \"Crew Pairing\" (Generation of routes for aircraft based on costs and regulations) and \"Crew Rostering\" (Assignment of tasks and flights to each crew member based on their preferences, costs, and regulations)."
@@ -177,6 +177,10 @@
               },
               {
                 "name": "Eclipse",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
                 "type": "technology"
               },
               {
