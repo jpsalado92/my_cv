@@ -449,67 +449,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Query",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Pivot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
           "type": "technology"
         }
       },
@@ -521,31 +461,43 @@
       },
       {
         "skill": {
-          "name": "Jekyll",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flask",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Postman",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Pivot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jekyll",
           "type": "technology"
         }
       },
@@ -557,7 +509,91 @@
       },
       {
         "skill": {
+          "name": "TeamCity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Power BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Airflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Query",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
           "type": "technology"
         }
       }
