@@ -575,7 +575,19 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "Airflow",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Bash",
           "type": "technology"
         },
         {
@@ -583,7 +595,19 @@
           "type": "technology"
         },
         {
-          "name": "Kafka",
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "NoSQL",
+          "type": "technology"
+        },
+        {
+          "name": "Postman",
           "type": "technology"
         },
         {
@@ -592,6 +616,14 @@
         },
         {
           "name": "Spark",
+          "type": "technology"
+        },
+        {
+          "name": "TeamCity",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
           "type": "technology"
         }
       ],
