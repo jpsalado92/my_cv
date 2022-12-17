@@ -598,6 +598,17 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Big Data and Business Intelligence Programme",
+        "startDate": "2019-09-01",
+        "finishDate": "2020-01-01",
+        "institution": {
+          "name": "University of Deusto",
+          "URL": "https://www.deusto.es/en/home/study/courses/executive-education/programa-en-big-data-y-business-intelligence"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "University Specialist in Internationalization in the Business World",
         "startDate": "2017-07-01",
         "finishDate": "2017-12-01",
