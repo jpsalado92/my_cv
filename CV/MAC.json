@@ -583,6 +583,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": " Master's Degree in Industrial Engineering",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Faculty of Engineering Bilbao",
+          "URL": "https://www.ehu.eus/en/web/bilboko-ingeniaritza-eskola/hasiera"
+        }
+      }
     ]
   },
   "careerPreferences": {
