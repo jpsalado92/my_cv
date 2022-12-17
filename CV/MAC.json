@@ -594,6 +594,11 @@
           "name": "Spark",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Engineer",
+        "DevOps & Infrastructure & SRE"
       ]
     },
     "status": "searchingActively"
