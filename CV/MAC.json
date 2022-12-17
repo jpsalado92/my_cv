@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "Suecia",
         "region": "Provincia de Estocolmo",
-        "municipality": "Estocolmo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Estocolmo"
       }
     },
     "relevantLinks": [
@@ -422,16 +421,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
-        "level": "Native or bilingual proficiency"
+        "name": "Basque"
       },
       {
-        "name": "English",
-        "level": "Native or bilingual proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -595,20 +591,7 @@
         "finishDate": "2020-01-01",
         "institution": {
           "name": "University of Deusto",
-          "description": "",
           "URL": "https://www.deusto.es/en/home/study/courses/executive-education/programa-en-big-data-y-business-intelligence"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "University Specialist in Internationalization in the Business World",
-        "startDate": "2017-07-01",
-        "finishDate": "2017-12-01",
-        "institution": {
-          "name": "University of the Basque Country",
-          "description": "",
-          "URL": "https://basquetrade.spri.eus/en/subsidies/beint-internationalization-program-young/"
         }
       },
       {
@@ -619,7 +602,6 @@
         "finishDate": "2017-06-01",
         "institution": {
           "name": "Faculty of Engineering Bilbao",
-          "description": "",
           "URL": "https://www.ehu.eus/en/web/bilboko-ingeniaritza-eskola/hasiera"
         }
       }
@@ -695,7 +677,6 @@
         "Data Engineer",
         "DevOps & Infrastructure & SRE"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
