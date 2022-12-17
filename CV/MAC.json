@@ -84,6 +84,7 @@
           {
             "name": "Data Engineer",
             "startDate": "2020-06-01",
+            "finishDate": "2022-07-01",
             "challenges": [
               {
                 "description": "Exploitation of enterprise account databases using Big Data techniques to implement a \"Probability of Default\" model aimed to be used by public institutions; implementation of websites and dashboards for the public institutions of the Basque Country; multiple ETL design from heterogeneous sources to support research; database management."
