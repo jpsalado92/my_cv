@@ -40,6 +40,21 @@
     "jobs": [
       {
         "organization": {
+          "name": "Optimeering Aqua",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/02/6d531bea-b695-4d5d-bef8-ff746a1050b5_310503551_7780351832.png",
+            "alt": "310503551_778035183227666_3667830594393369638_n.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Data Architect",
+            "startDate": "2023-08-01"
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Nepa ",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/70fabcc8-646c-48cd-a0e6-491539e343e6_nepa-squarelogo-1550.png",
