@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,28 +9,18 @@
       "name": "Juan Pablo",
       "surnames": "Salado",
       "title": "Tech enthusiast with strong technical skills seeking opportunities to contribute and grow",
-      "description": "",
+      "description": "I'm a Data Engineer raised in the Basque Country with proven experience in software development. Through my life journey, I have always looked forward to learning, and that's what I do, every day I keep on working to further develop myself, learn languages, and improve my professional skills; also, keeping the ones that matter close. Quite a challenge!",
       "avatar": {
-        "alt": "DSC_0800_edit.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/e5ec30be-2b5e-4af9-a0c4-0d99c2b2180a_dsc_0800_edit.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/e5ec30be-2b5e-4af9-a0c4-0d99c2b2180a_dsc_0800_edit.jpg",
+        "alt": "DSC_0800_edit.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJywtkGTF2X0YRZnedZ9MnDag)",
         "country": "Suecia",
         "region": "Provincia de Estocolmo",
-        "municipality": "Estocolmo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Estocolmo"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/jpsalado92/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jpsalado/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "First prize at APP design contest",
@@ -52,8 +42,8 @@
         "organization": {
           "name": "Nepa ",
           "image": {
-            "alt": "nepa-squarelogo-1550750272107.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/70fabcc8-646c-48cd-a0e6-491539e343e6_nepa-squarelogo-1550.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/70fabcc8-646c-48cd-a0e6-491539e343e6_nepa-squarelogo-1550.png",
+            "alt": "nepa-squarelogo-1550750272107.png"
           },
           "URL": "https://nepa.com/"
         },
@@ -61,9 +51,10 @@
           {
             "name": "Data Engineer",
             "startDate": "2022-08-01",
+            "finishDate": "2023-07-01",
             "challenges": [
               {
-                "description": "Refactoring code; New pipeline implementation and maintenance; Designing new DB+API solution; Addressing new ways to meet business requirements; Frontend development."
+                "description": "Building a .NET APP to support Dashboard Deployments; New pipeline implementation and maintenance; Platform infrastructure definition; Designing new DB+API solution; Refactoring code; Addressing new ways of meeting business requirements; Frontend development."
               }
             ],
             "competences": [
@@ -119,8 +110,8 @@
         "organization": {
           "name": "Orkestra",
           "image": {
-            "alt": "logo-orkestra.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/cc52e8dd-7790-45c7-a7a1-5d8f002c0ee0_logo-orkestra.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/cc52e8dd-7790-45c7-a7a1-5d8f002c0ee0_logo-orkestra.jpg",
+            "alt": "logo-orkestra.jpg"
           },
           "URL": "https://www.orkestra.deusto.es/en/"
         },
@@ -179,8 +170,8 @@
         "organization": {
           "name": "Vueling",
           "image": {
-            "alt": "Cascading-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/badf2fc6-48e0-48f9-9d7c-5967fcc31a45_cascading-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/17/badf2fc6-48e0-48f9-9d7c-5967fcc31a45_cascading-1.png",
+            "alt": "Cascading-1.png"
           },
           "URL": "https://www.vueling.com/es"
         },
@@ -231,8 +222,8 @@
         "organization": {
           "name": "Gestamp",
           "image": {
-            "alt": "unnamed-1.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/393a8ed4-3817-4f83-8d92-e8ac6fdfac7f_unnamed-1.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/393a8ed4-3817-4f83-8d92-e8ac6fdfac7f_unnamed-1.jpg",
+            "alt": "unnamed-1.jpg"
           },
           "URL": "https://www.gestamp.com/es/home"
         },
@@ -267,8 +258,8 @@
         "organization": {
           "name": "ICEX",
           "image": {
-            "alt": "lFya9tf4_400x400.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/57e34aec-ca2d-4384-8d38-aa59b622583c_lfya9tf4_400x400.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/57e34aec-ca2d-4384-8d38-aa59b622583c_lfya9tf4_400x400.jpg",
+            "alt": "lFya9tf4_400x400.jpg"
           },
           "URL": "https://www.icex.es/icex/es/index.html"
         },
@@ -299,8 +290,8 @@
         "organization": {
           "name": "Tecnalia",
           "image": {
-            "alt": "Logo_Tecnalia.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/d6e57b14-5fea-4752-8a4e-a7a801818c68_logo_tecnalia.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/d6e57b14-5fea-4752-8a4e-a7a801818c68_logo_tecnalia.png",
+            "alt": "Logo_Tecnalia.png"
           },
           "URL": "https://www.tecnalia.com/"
         },
@@ -347,44 +338,12 @@
     "projects": [
       {
         "details": {
-          "name": "Public Contracts 4All",
-          "description": "Advanced scrapping of the official Basque Contract site empowering individuals to better know how public wealth is spent.",
-          "URL": "https://www.contratacion.euskadi.eus/inicio/"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2022-01-01",
-            "competences": [
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Jekyll Site",
           "description": "Personal blog with leveraging Jekyll and Github Pages",
           "URL": "https://jpsalado92.github.io/",
           "image": {
-            "alt": "web-logo-big.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/d79f0c6c-70e5-4fcd-a8c0-670921ae393b_web-logo-big.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/10/d79f0c6c-70e5-4fcd-a8c0-670921ae393b_web-logo-big.png",
+            "alt": "web-logo-big.png"
           }
         },
         "type": "openSource",
@@ -416,25 +375,69 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Public Contracts 4All",
+          "description": "Advanced scrapping of the official Basque Contract site empowering individuals to better know how public wealth is spent.",
+          "URL": "https://www.contratacion.euskadi.eus/inicio/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-01-01",
+            "competences": [
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
+        "name": "EN",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "EU",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Airflow",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Bash",
@@ -449,37 +452,49 @@
       },
       {
         "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Postman",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Terraform",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Power Pivot",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Flask",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -497,7 +512,7 @@
       },
       {
         "skill": {
-          "name": "TeamCity",
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -509,61 +524,7 @@
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Flask",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Airflow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spark",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Query",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -575,13 +536,43 @@
       },
       {
         "skill": {
-          "name": "Google Cloud",
+          "name": "Postman",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Power Pivot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Query",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spark",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TeamCity",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
           "type": "technology"
         }
       }
@@ -590,25 +581,43 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Big Data and Business Intelligence Programme",
-        "startDate": "2019-09-01",
-        "finishDate": "2020-01-01",
+        "name": " Master's Degree in Industrial Engineering",
+        "startDate": "2010-01-01",
         "institution": {
-          "name": "University of Deusto",
-          "description": "",
-          "URL": "https://www.deusto.es/en/home/study/courses/executive-education/programa-en-big-data-y-business-intelligence"
-        }
+          "name": "Faculty of Engineering Bilbao",
+          "URL": "https://www.ehu.eus/en/web/bilboko-ingeniaritza-eskola/hasiera"
+        },
+        "finishDate": "2017-06-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": " Master's Degree in Industrial Engineering",
-        "startDate": "2010-01-01",
-        "finishDate": "2017-06-01",
+        "name": "Big Data and Business Intelligence Programme",
+        "startDate": "2019-09-01",
         "institution": {
-          "name": "Faculty of Engineering Bilbao",
-          "description": "",
-          "URL": "https://www.ehu.eus/en/web/bilboko-ingeniaritza-eskola/hasiera"
+          "name": "University of Deusto",
+          "URL": "https://www.deusto.es/en/home/study/courses/executive-education/programa-en-big-data-y-business-intelligence"
+        },
+        "finishDate": "2020-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
         }
       }
     ]
@@ -617,8 +626,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jpsalado/"
+          "URL": "https://www.linkedin.com/in/jpsalado/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jpsalado92/",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "jpsalado92@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "662235966",
+          "countryCode": "+34"
         }
       ]
     },
@@ -686,7 +708,7 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
         "name": "Bash",
@@ -697,16 +719,26 @@
         "type": "technology"
       },
       {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
         "name": "Kubernetes",
         "type": "technology"
       },
       {
         "name": "Python",
         "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "My dream job would involve working on a team of highly skilled and collaborative individuals to design, build, and maintain efficient and reliable data pipelines.\n\nIn this role, I would have the opportunity to work with a wide range of technologies and tools, including big data platforms such as Airflow and Spark, as well as programming languages like Python and SQL. I would also have the chance to work with a diverse set of data sources, including both structured and unstructured data, and to apply my skills in data transformation, data cleaning, and data integration to create high-quality datasets for analysis and reporting.\n\nIn addition to technical skills, I would also have the opportunity to use my problem-solving and communication skills to work with stakeholders and other team members to understand their data needs and to develop solutions that meet those needs. I would also have the chance to contribute to the overall data strategy of the organization, including the design and implementation of data governance and security protocols.\n\nOverall, my dream job as a Data Engineer would be a challenging and rewarding role that allows me to use my skills and expertise to drive meaningful business outcomes through the effective use of data.",
+    "goodPractices": "As a Data Engineer, I believe that **promoting a culture of trust and transparency** is essential for the success of any project. I strive to foster open communication and collaboration with my team members, and I am always willing to listen to and consider their ideas and concerns.\n\nBefore embarking on any new project, I make sure to take the time to **understand the big picture** and how my work fits into the overall data strategy of the organization. This helps me prioritize my tasks and make informed decisions.\n\nI place a strong emphasis on **documentation**, both for my own benefit and for the benefit of my team. This includes keeping thorough documentation of my data pipelines and processes, as well as documenting any decisions or changes made along the way.\n\nI also follow best practices such as **test-driven development** and implementing **continuous integration and continuous delivery (CI/CD)** processes to ensure the quality and reliability of my code.\n\nFinally, I am always aware of **security protocols** and make sure to follow them to protect sensitive data and systems. By following these best practices, I am able to contribute to the reliability, efficiency, and security of our data pipelines and systems.",
+    "projects": [
+      {
+        "name": "Jekyll Site"
       },
       {
-        "name": "Git",
-        "type": "technology"
+        "name": "Public Contracts 4All"
       }
     ]
   }
